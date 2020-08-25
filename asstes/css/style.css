@@ -1,0 +1,128 @@
+/*
+Template Name: Section 1
+Author Name: Mahid Mahmud
+Description: A beautiful Client Section
+Authod URI: nhpit.com
+*/
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.section-heading {
+    text-align: center;
+    margin-bottom: 60px;
+}
+.section-heading h2 {
+    font-size: 32px;
+    margin-top: 4%;
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+.section-heading p {
+    font-size: 17px;
+    color:#7A7A7A;
+}
+
+.section-heading h2:after {
+    content: '';
+    background-image: url(../images/border-bg.png);
+    position: absolute;
+    width: 60px;
+    height: 4px;
+    background-repeat: no-repeat;
+    bottom: -15px;
+    left: 47%;
+}
+
+.charity-main {
+    display: flex;
+    margin: 0px 5%;
+}
+.section-item {
+    width: 33.33%;
+    text-align: center;
+    margin-bottom: 53px;
+}
+
+.section-item p {
+    font-size: 19px;
+    width: 87%;
+    margin: 0 auto;
+    line-height: 29px;
+    color: #7D7D7D;
+}
+.section-item h2 {
+    font-size: 24px;
+    margin-top: 22px;
+    margin-bottom: 22px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
